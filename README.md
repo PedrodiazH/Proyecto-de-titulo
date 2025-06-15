@@ -8,7 +8,8 @@ Pedro Díaz Herrera & Marcos Carripan Moya
 
 Profesor guía: Christopher Flores Jara
 
-[![Documento]()
+[![Documento]()]
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](https://drive.google.com/drive/u/0/folders/1PsqGXum6_dIXtJz5SpGycjOnqgmWVMOc)
 </div>
 
 ## Descripción general
