@@ -22,6 +22,6 @@ Consiste en una revisión del estado del arte del reconocimiento de expresiones 
 
 ### Exploración conjuntos de datos 
 * [FER2013](https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/AnalisisFER2013.ipynb)
-* AffectNet
+* [AffectNet](https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/Analisis_AffectNet.ipynb)
 * RAF-DB
 * EMOTIC
