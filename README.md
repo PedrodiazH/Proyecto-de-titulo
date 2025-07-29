@@ -21,7 +21,7 @@ Este proyecto es realizado para optar por el título de Ingeniería Civil en Aut
 Consiste en una revisión del estado del arte del reconocimiento de expresiones faciales, la implementación de algoritmos que interpreten un estado emocional en una escena, y explicabilidad del modelo de aprendizaje utilizado.
 
 ### Exploración conjuntos de datos 
-* FER2013 [![Fer2013](https://img.shields.io/badge/Documento%20de%20tesis-8A2BE2)](#)
+* [FER2013](https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/AnalisisFER2013.ipynb)
 * AffectNet
 * RAF-DB
 * EMOTIC
