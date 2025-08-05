@@ -24,3 +24,17 @@ Consiste en una revisión del estado del arte del reconocimiento de expresiones 
 * [FER2013](https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/AnalisisFER2013.ipynb)
 * [AffectNet](https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/Analisis_AffectNet.ipynb)
 * [RAF-DB](https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/Analisis_RAF.ipynb)
+
+## Requerimientos (fue probado bajo estas versiones)
+* Python 3.9+
+* PyTorch 2.7.1+cu118
+* torchvision 0.22.1
+* tqdm
+* pandas
+* numpy
+* scikit-learn 1.7.0
+* opencv-python 4.12.0
+* matplotlib 3.10.3
+* seaborn
+* lime 0.2.0.1
+* shap 0.48.0
