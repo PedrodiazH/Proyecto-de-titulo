@@ -39,5 +39,5 @@ Consiste en una revisión del estado del arte del reconocimiento de expresiones 
 * Bibliotecas adicionales en: [requirements.txt]()
 
 ## Flujo de trabajo
-<img src="https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/Workflow.jpg?raw=true" alt="Flujo de trabajo" width="600"/>
+<img src="https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/Workflow.jpg?raw=true" alt="Flujo de trabajo" width="200"/>
 
