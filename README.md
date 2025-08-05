@@ -43,4 +43,10 @@ Consiste en una revisión del estado del arte del reconocimiento de expresiones 
   <img src="https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/Workflow.jpg?raw=true" alt="Flujo de trabajo" width="540"/>
 </div>
 
+## Arquitectura del modelo
+El modelo consta de una CNN, un bloque SE para potenciar la CNN y una red residual para mejorar la clasificación de expresiones faciales
+<div align="center">
+  <img src="https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/Workflow.jpg?raw=true" alt="Flujo de trabajo" width="540"/>
+</div>
+
 
