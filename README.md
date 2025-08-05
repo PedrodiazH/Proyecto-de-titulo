@@ -29,8 +29,6 @@ Consiste en una revisión del estado del arte del reconocimiento de expresiones 
 * Python 3.9+
 * PyTorch 2.7.1+cu118
 * torchvision 0.22.1
-* tqdm
-* pandas
 * numpy
 * scikit-learn 1.7.0
 * opencv-python 4.12.0
@@ -38,3 +36,4 @@ Consiste en una revisión del estado del arte del reconocimiento de expresiones 
 * seaborn
 * lime 0.2.0.1
 * shap 0.48.0
+* Bibliotecas adicionales en: [requirements.txt]()
