@@ -37,3 +37,6 @@ Consiste en una revisión del estado del arte del reconocimiento de expresiones 
 * lime 0.2.0.1
 * shap 0.48.0
 * Bibliotecas adicionales en: [requirements.txt]()
+
+## Flujo de trabajo
+(https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/Workflow.jpg)
