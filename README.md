@@ -39,4 +39,4 @@ Consiste en una revisión del estado del arte del reconocimiento de expresiones 
 * Bibliotecas adicionales en: [requirements.txt]()
 
 ## Flujo de trabajo
-(https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/Workflow.jpg)
+![workflow](https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/Workflow.jpg)
