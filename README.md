@@ -46,7 +46,9 @@ Consiste en una revisión del estado del arte del reconocimiento de expresiones 
 ## Arquitectura del modelo
 El modelo consta de una CNN, un bloque SE para potenciar la CNN y una red residual para mejorar la clasificación de expresiones faciales
 <div align="center">
-  <img src="https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/Workflow.jpg?raw=true" alt="Flujo de trabajo" width="540"/>
+  <img src="https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/ResEmoteNet.jpg?raw=true" alt="Imagen grande" width="540"/>
+  <img src="https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/bloque_SE_Redresidual.jpg?raw=true" alt="Imagen pequeña 1" width="260"/>
 </div>
+
 
 
