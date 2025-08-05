@@ -50,5 +50,4 @@ El modelo consta de una CNN, un bloque SE para potenciar la CNN y una red residu
   <img src="https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/bloque_SE_Redresidual.jpg?raw=true" alt="Imagen pequeña 1" width="360"/>
 </div>
 
-
-
+## Uso
