@@ -1,0 +1,14 @@
+Los pesos pueden ser obtenidos por entrenamiento o descargándolos (.pth) en los siguientes links:
+
+Para RAF-DB y FER2013
+https://drive.google.com/drive/folders/1Daxa6d1-XFxxpg6dyxYl4V-anfiHwtqK 2024
+
+
+
+
+
+
+
+
+
+GitHub del autor: https://github.com/ArnabKumarRoy02/ResEmoteNet
