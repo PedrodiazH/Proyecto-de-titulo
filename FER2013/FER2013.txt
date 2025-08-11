@@ -1,0 +1,2 @@
+Para descargar carpetas train/test de FER2013
+https://drive.google.com/file/d/1PiUQTWzaHuFulVbobwu9V6D7zWegNn1Q/view?usp=drive_link
