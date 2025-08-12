@@ -24,6 +24,7 @@ Consiste en una revisión del estado del arte del reconocimiento de expresiones 
 * [FER2013](https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/AnalisisFER2013.ipynb)
 * [AffectNet](https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/Analisis_AffectNet.ipynb)
 * [RAF-DB](https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/Analisis_RAF.ipynb)
+* En las carpetas de cada conjunto de datos en el proyecto, se encuentran los links de descarga
 
 ## Requerimientos (fue probado bajo estas versiones)
 * Python 3.9+
