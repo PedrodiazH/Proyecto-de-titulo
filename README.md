@@ -6,7 +6,7 @@
 
 Pedro Díaz Herrera & Marcos Carripan Moya
 
-Profesor guía: Christopher Flores Jara
+Profesores guía: Christopher Flores Jara
 
 [![Documento](https://img.shields.io/badge/Documento%20de%20tesis-8A2BE2)](#)
 [![Revisión bibliográfica](https://img.shields.io/badge/Google%20Drive-Revisión%20bibliográfica-285F4?logo=googledrive&logoColor=fff)](https://drive.google.com/drive/u/0/folders/1PsqGXum6_dIXtJz5SpGycjOnqgmWVMOc)
