@@ -25,8 +25,8 @@ Consiste en una revisión del estado del arte del reconocimiento de expresiones 
 * [AffectNet](https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/Analisis_AffectNet.ipynb)
 * [RAF-DB](https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/Analisis_RAF.ipynb)
 * En las carpetas de cada conjunto de datos en el proyecto, se encuentran los links de descarga:
-  [Conjunto de datos FER2013](https://github.com/PedrodiazH/Proyecto-de-titulo/tree/main/FER2013)
-  [Conjunto de datos RAF-DB](https://github.com/PedrodiazH/Proyecto-de-titulo/tree/main/RAF-DB)
+  - [Conjunto de datos FER2013](https://github.com/PedrodiazH/Proyecto-de-titulo/tree/main/FER2013)
+  - [Conjunto de datos RAF-DB](https://github.com/PedrodiazH/Proyecto-de-titulo/tree/main/RAF-DB)
 
 
 
