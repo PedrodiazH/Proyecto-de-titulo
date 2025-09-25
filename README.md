@@ -26,18 +26,6 @@ Consiste en una revisión del estado del arte del reconocimiento de expresiones 
 * [RAF-DB](https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Extras/Analisis_RAF.ipynb)
 * En las carpetas de cada conjunto de datos en el proyecto, se encuentran los links de descarga
 
-## Requerimientos (fue probado bajo estas versiones)
-* Python 3.9+
-* PyTorch 2.7.1+cu118
-* torchvision 0.22.1
-* numpy
-* scikit-learn 1.7.0
-* opencv-python 4.12.0
-* matplotlib 3.10.3
-* seaborn
-* lime 0.2.0.1
-* shap 0.48.0
-* Bibliotecas adicionales en: [requirements.txt]()
 
 ## Flujo de trabajo
 <div align="center">
@@ -52,3 +40,18 @@ El modelo consta de una CNN, un bloque SE para potenciar la CNN y una red residu
 </div>
 
 ## Uso
+Instalar las bibliotecas en forma manual o a través de *requirements.txt*
+Luego descargar los pesos de la red, disponibles en la siguiente carpeta [https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Weights/Pesos.txt](Weights)
+Luego cambiar las rutas correspondientes y ejecutar el archivo *inference_webcam.py* para ejecutar el modelo en modo webcam de reconocimiento.
+### Requerimientos (fue probado bajo estas versiones)
+* Python 3.9+
+* PyTorch 2.7.1+cu118
+* torchvision 0.22.1
+* numpy
+* scikit-learn 1.7.0
+* opencv-python 4.12.0
+* matplotlib 3.10.3
+* seaborn
+* lime 0.2.0.1
+* shap 0.48.0
+* Bibliotecas adicionales en: [requirements.txt]()
