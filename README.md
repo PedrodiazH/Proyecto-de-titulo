@@ -41,7 +41,7 @@ El modelo consta de una CNN, un bloque SE para potenciar la CNN y una red residu
 
 ## Uso
 Instalar las bibliotecas en forma manual o a través de *requirements.txt*
-Luego descargar los pesos de la red, disponibles en la siguiente carpeta [https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Weights/Pesos.txt](Weights)
+Luego descargar los pesos de la red, disponibles en la siguiente carpeta [Weights](https://github.com/PedrodiazH/Proyecto-de-titulo/blob/main/Weights/Pesos.txt)
 Luego cambiar las rutas correspondientes y ejecutar el archivo *inference_webcam.py* para ejecutar el modelo en modo webcam de reconocimiento.
 ### Requerimientos (fue probado bajo estas versiones)
 * Python 3.9+
