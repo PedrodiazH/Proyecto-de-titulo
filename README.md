@@ -9,7 +9,7 @@ Pedro Díaz Herrera & Marcos Carripan Moya
 Profesores guía: Christopher Flores Jara
 
 [![Documento](https://img.shields.io/badge/Documento%20de%20tesis-8A2BE2)](#)
-[![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-00629B?logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11358497)
+[![IEEE Paper](https://img.shields.io/badge/IEEE-00629B?logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11358497)
 [![Revisión bibliográfica](https://img.shields.io/badge/Google%20Drive-Revisión%20bibliográfica-285F4?logo=googledrive&logoColor=fff)](https://drive.google.com/drive/u/0/folders/1PsqGXum6_dIXtJz5SpGycjOnqgmWVMOc)
 
 </div>
